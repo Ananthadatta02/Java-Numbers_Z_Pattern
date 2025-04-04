@@ -1,4 +1,3 @@
-
 # Numbers Z Pattern in Java
 
 This Java program prints a Z-shaped number pattern based on a user-input number `n`. Below is a detailed explanation of the program, including the use of classes, variables, loops, and logic.
